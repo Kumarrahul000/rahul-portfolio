@@ -30,7 +30,7 @@ export default function Home() {
         <Experience />
       </div>
 
-      <div id="projects" className="py-20 px-4 sm:px-6 lg:px-8 bg-slate-800/20">
+      <div id="projects" className="py-20   px-4 sm:px-6 lg:px-8 bg-slate-800/20">
         <Projects />
       </div>
 
