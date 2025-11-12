@@ -27,7 +27,7 @@ export default function Home() {
       </div>
 
       <div id="experience" className="py-20 px-4 sm:px-6 lg:px-8">
-        <Experience />
+        {/* <Experience /> */}
       </div>
 
       <div id="projects" className="py-20   px-4 sm:px-6 lg:px-8 bg-slate-800/20">
